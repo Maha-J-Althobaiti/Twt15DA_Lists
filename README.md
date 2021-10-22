@@ -2,10 +2,9 @@
 
 ## Country-Level Dialectal Arabic Lists: An Unsupervised Approach 
 
-The lists of dialectal words for 15 countries are collected from Twitter. Every word in each Arabic dialect list is mentioned
-along with its PMI score, representing the word's degree of relatedness to that dialect.
+The lists of dialectal words for 15 countries are collected from Twitter. Every word in each Arabic dialect list is mentioned along with its PMI score, representing the word's degree of relatedness to that dialect.
 
-The unsupervised approach to build the lists uses an iterative procedure consisting of three main steps: automatic creation of dialectal word lists, selection of seed words, and collection of dialectal sentences. The Pointwise Mutual Information (PMI) association measure, along with the geographical frequency of word occurrence online are used to classify dialectal words. The poor performance of MSA POS tagger on dialectal Arabic contents is exploit in order to extract the dialectal words. 
+The unsupervised approach to build the lists uses an iterative procedure consisting of three main steps: automatic creation of dialectal word lists, selection of seed words, and collection of dialectal sentences. The Pointwise Mutual Information (PMI) association measure, along with the geographical frequency of word occurrence online were used to classify dialectal words. The poor performance of MSA POS tagger on dialectal Arabic contents was exploited in order to extract the dialectal words. 
  
 
 This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0).
