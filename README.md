@@ -21,4 +21,15 @@ https://creativecommons.org/licenses/by-nc-nd/4.0/
 		NoDerivatives — If you remix, transform, or build upon the material, you may not distribute the modified material. 
 
 
-# To be released soon...
+Please cite our paper in any published work using this resource:
+
+```
+@article{althobaiti2021creation,
+  title={Creation of annotated country-level dialectal Arabic resources: An unsupervised approach},
+  author={Althobaiti, Maha J},
+  journal={Natural Language Engineering},
+  pages={1--42},
+  year={2021},
+  publisher={Cambridge University Press}
+}
+```
